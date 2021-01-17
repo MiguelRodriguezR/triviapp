@@ -1,0 +1,7 @@
+export const ADD_USER_INFO = 'ADD_USER_INFO';
+export const VALIDATE_FORM = 'VALIDATE_FORM';
+export const GET_QUESTIONS = 'GET_QUESTIONS';
+export const LOADING_SERVICE = 'LOADING_SERVICE';
+export const SET_TIME_START = 'SET_TIME_START';
+export const SET_TIME_END = 'SET_TIME_END';
+export const GET_SCORES = 'GET_SCORES';
